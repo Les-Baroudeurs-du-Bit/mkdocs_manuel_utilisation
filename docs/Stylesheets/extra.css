@@ -23,7 +23,7 @@
 
 /* Harmoniser les volets déroulants avec les couleurs du thème */
 .md-typeset details {
-  margin: 1em 0;
+  margin: 0.5em 0;
   border: 1px solid var(--md-primary-fg-color);
   border-radius: 0.3rem;
   background-color: var(--md-default-bg-color);
@@ -31,10 +31,10 @@
 }
 
 .md-typeset details > summary {
-  padding: 0.8rem 1rem;
   color: var(--md-primary-bg-color);
   background-color: var(--md-primary-fg-color);
   cursor: pointer;
+  padding: 0.3rem 2rem 0.3rem 1rem; /* haut/bas | droite (pour la flèche) | gauche */
 }
 
 .md-typeset details[open] > summary {
@@ -44,4 +44,9 @@
 .md-typeset details > :not(summary) {
   padding-right: 1rem;
   padding-left: 1rem;
+}
+
+/* Supprimer l'icône bleue devant le titre */
+.md-typeset details > summary::before {
+  display: none;
 }

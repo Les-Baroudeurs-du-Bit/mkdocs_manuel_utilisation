@@ -26,7 +26,7 @@ Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représent
   <summary><strong>Page étapes de la journée</strong></summary>
 
   &emsp;&emsp;Accessibilité :<br>
-  <strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mes road trip > le road trip > le jour > (vous êtes sur la page)<br>
+  <strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mes road trip > le road trip > le jour > (vous êtes sur la page)<br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;tableau de bord > le jour > (vous êtes sur la page)</strong>
 
   
@@ -47,7 +47,7 @@ Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représent
   <summary><strong>Page d’enregistrement des hébergement</strong></summary>
 
   &emsp;&emsp;Accessibilité :<br>
-  <strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;tableau de bord > Ce soir  : … > (vous êtes sur la page)<br>
+  <strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;tableau de bord > Ce soir  : … > (vous êtes sur la page)<br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;tableau de bord > le jour > ajouter un hébergement >(vous êtes sur la page)</strong>
 
   
