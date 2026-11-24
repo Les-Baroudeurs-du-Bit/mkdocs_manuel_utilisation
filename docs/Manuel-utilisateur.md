@@ -3,7 +3,6 @@ Bienvenue à vous les tripeurs !
 
 Pour commencer, il vous faut vous connecter à votre application. Si vous avez un compte, vous pouvez vous connecter, sinon, veuillez cliquer sur “s’inscrire”.
 
-\
 La page qui s’affiche vous propose plusieurs champs à remplir: 
 <ul>
   <li>votre pseudo qui sera le nom avec lequel l’appli vous appellera</li>
@@ -18,7 +17,7 @@ Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représent
 <details>
   <summary><strong>Mes road Trip</strong></summary>
   
-  <ul>Cette page vous permet d’enregistrer vos roadtrip. Vous pouvez en ajouter en cliquant sur le bouton rouge “Créer un road trip”. Dedans, vous pouvez lui donner un nom ainsi qu’une date de début et de fin. Une fois enregistré, la page des road trip vous l'affiche et vous pourrez donc interagir avec pour le modifier ou le supprimer. Si vous cliquez sur votre roadtrip, la page vous affichera les jours de votre roadtrip avec les étapes et l’hébergement lié au jour. </ul>
+  <ul>Cette page vous permet d’enregistrer vos roadtrip. Vous pouvez en ajouter en cliquant sur le bouton rouge <strong>Créer un road trip</strong>. Dedans, vous pouvez lui donner un nom ainsi qu’une date de début et de fin. Une fois enregistré, la page des road trip vous l'affiche et vous pourrez donc interagir avec pour le modifier ou le supprimer. Si vous cliquez sur votre roadtrip, la page vous affichera les jours de votre roadtrip avec les étapes et l’hébergement lié au jour. </ul>
 
 <br>
 
@@ -26,8 +25,8 @@ Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représent
 <details>
   <summary><strong>Page étapes de la journée</strong></summary>
 
-  &emsp;&emsp;Accessibilité : \
-  <strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mes road trip > le road trip > le jour > (vous êtes sur la page)\
+  &emsp;&emsp;Accessibilité :<br>
+  <strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;mes road trip > le road trip > le jour > (vous êtes sur la page)<br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;tableau de bord > le jour > (vous êtes sur la page)</strong>
 
   
@@ -47,8 +46,8 @@ Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représent
 <details>
   <summary><strong>Page d’enregistrement des hébergement</strong></summary>
 
-  &emsp;&emsp;Accessibilité : \
-  <strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;tableau de bord > Ce soir  : … > (vous êtes sur la page)\
+  &emsp;&emsp;Accessibilité :<br>
+  <strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;tableau de bord > Ce soir  : … > (vous êtes sur la page)<br>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;tableau de bord > le jour > ajouter un hébergement >(vous êtes sur la page)</strong>
 
   
@@ -63,18 +62,15 @@ Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représent
 <details>
   <summary><strong>Tableaux de bord</strong></summary>
 
-  <ul> Cette page vous permet d'accéder facilement à votre roadtrip en cours. Il vous affiche chaque jour avec ses différentes activités, il vous permet aussi d'accéder rapidement aux détails de chaque étape qui constitue votre journée. 
-  
-  <br>
+  <ul> Cette page vous permet d'accéder facilement à votre roadtrip en cours. Il vous affiche chaque jour avec ses différentes activités, il vous permet aussi d'accéder rapidement aux détails de chaque étape qui constitue votre journée. <br>
 
-  Le bouton <strong>Naviguer</strong> vous permet d’ouvrir l’application maps en vous proposant un itinéraire par rapport à votre position et celle de votre prochaine activité (si vous avez renseigné sa ville ou localisation précise)
+  Le bouton <strong>Naviguer</strong> vous permet d’ouvrir l’application maps en vous proposant un itinéraire par rapport à votre position et celle de votre prochaine activité (si vous avez renseigné sa ville ou localisation précise) <br>
 
-  Le bouton <strong>Voir le détail de l’étape</strong> est explicite, il permet d'accéder aux détails de l'étape et permet aussi de modifier le commentaire en lien avec cette étape.
+  Le bouton <strong>Voir le détail de l’étape</strong> est explicite, il permet d'accéder aux détails de l'étape et permet aussi de modifier le commentaire en lien avec cette étape. <br>
   
   En dessous, vous pouvez voir le programme du jour, avec le bouton y aller qui à la même fonctionnalité que <strong>Naviguer</strong>. La flèche <strong>v</strong>  vous permet d’afficher les commentaires (la zone est modifiable)</ul>
 </details>
 
-<br>
 <details>
   <summary><strong>Mon compte</strong></summary>
 
