@@ -8,8 +8,8 @@ La page qui s’affiche vous propose plusieurs champs à remplir:
   <li>votre pseudo qui sera le nom avec lequel l’appli vous appellera</li>
   <li>votre identifiant, mail ou nom d’utilisateur, qui servira à se connecter au compte</li>
   <li>un mot de passe pour sécuriser le tout</li>
-  </ul>
 </ul>
+
 
 Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représente votre page principale. Lors de votre première connexion, cette page n’affiche qu’un bouton. En haut à gauche vous trouverez un menu Burger ≡ qui vous permettra d'accéder aux autres fonctionnalité de l’application. 
 
@@ -18,8 +18,6 @@ Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représent
   <summary><strong>Mes road Trip</strong></summary>
   
   <ul>Cette page vous permet d’enregistrer vos roadtrip. Vous pouvez en ajouter en cliquant sur le bouton rouge <strong>Créer un road trip</strong>. Dedans, vous pouvez lui donner un nom ainsi qu’une date de début et de fin. Une fois enregistré, la page des road trip vous l'affiche et vous pourrez donc interagir avec pour le modifier ou le supprimer. Si vous cliquez sur votre roadtrip, la page vous affichera les jours de votre roadtrip avec les étapes et l’hébergement lié au jour. </ul>
-
-<br>
 
 <ul>
 <details>
@@ -36,7 +34,6 @@ Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représent
 </ul>
 </details>
 
-<br>
 <details>
   <summary><strong>Mes réservations</strong></summary>
 
@@ -57,12 +54,10 @@ Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représent
 </ul>
 </details>
 
-
-<br>
 <details>
   <summary><strong>Tableaux de bord</strong></summary>
 
-  <ul> Cette page vous permet d'accéder facilement à votre roadtrip en cours. Il vous affiche chaque jour avec ses différentes activités, il vous permet aussi d'accéder rapidement aux détails de chaque étape qui constitue votre journée. <br>
+  <ul>Cette page vous permet d'accéder facilement à votre roadtrip en cours. Il vous affiche chaque jour avec ses différentes activités, il vous permet aussi d'accéder rapidement aux détails de chaque étape qui constitue votre journée. <br>
 
   Le bouton <strong>Naviguer</strong> vous permet d’ouvrir l’application maps en vous proposant un itinéraire par rapport à votre position et celle de votre prochaine activité (si vous avez renseigné sa ville ou localisation précise) <br>
 
@@ -74,5 +69,5 @@ Une fois connecté, vous vous retrouverez sur le tableau de bord, qui représent
 <details>
   <summary><strong>Mon compte</strong></summary>
 
-  <ul> vous permet de gérer votre compte et de vous déconnecter de l'application. Vous pourrez ajouter une photo, changer votre pseudo, votre email ainsi que votre mot de passe. Bien évidemment, vous pourrez aussi supprimer votre compte utilisateur si vous ne le voulez plus.</ul>
+  <ul>Vous permet de gérer votre compte et de vous déconnecter de l'application. Vous pourrez ajouter une photo, changer votre pseudo, votre email ainsi que votre mot de passe. Bien évidemment, vous pourrez aussi supprimer votre compte utilisateur si vous ne le voulez plus.</ul>
 </details>
