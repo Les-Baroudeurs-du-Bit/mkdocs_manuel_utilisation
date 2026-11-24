@@ -1,0 +1,52 @@
+:root {
+  /* Rouge Corporate de l'Université de Limoges */
+  --md-primary-fg-color:        #B51621;
+  --md-primary-fg-color--light: #D1323C;
+  --md-primary-fg-color--dark:  #8B0E17;
+  
+  /* Gris Corporate ou couleur d'accentuation */
+  --md-accent-fg-color:         #4B575F;
+}
+
+/* Augmenter l'espacement global des listes à puces et ordonnées */
+.md-typeset ul, 
+.md-typeset ol {
+  padding-left: 1rem; /* Ajustez cette valeur selon vos préférences (ex: 2rem ou 3rem) */
+}
+
+/* Augmenter spécifiquement l'indentation des sous-listes imbriquées */
+.md-typeset li ul, 
+.md-typeset li ol {
+  margin-top: 0.4em;
+  padding-left: 3.5rem !important; 
+}
+
+/* Harmoniser les volets déroulants avec les couleurs du thème */
+.md-typeset details {
+  margin: 0.5em 0;
+  border: 1px solid var(--md-primary-fg-color);
+  border-radius: 0.3rem;
+  background-color: var(--md-default-bg-color);
+  overflow: hidden;
+}
+
+.md-typeset details > summary {
+  color: var(--md-primary-bg-color);
+  background-color: var(--md-primary-fg-color);
+  cursor: pointer;
+  padding: 0.3rem 2rem 0.3rem 1rem; /* haut/bas | droite (pour la flèche) | gauche */
+}
+
+.md-typeset details[open] > summary {
+  background-color: var(--md-primary-fg-color--dark);
+}
+
+.md-typeset details > :not(summary) {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+/* Supprimer l'icône bleue devant le titre */
+.md-typeset details > summary::before {
+  display: none;
+}
