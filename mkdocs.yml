@@ -15,4 +15,5 @@ extra_css:
   - Stylesheets/extra.css
 
 nav:
+  - Accueil: index.md
   - Manuel utilisateur : Manuel-utilisateur.md
